@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://via.placeholder.com/1200x300/0f172a/22d3ee?text=Murtaza+Mirzad" />
-</div>
-
 <h1 align="center">Hi 👋, I'm Murtaza Mirzad</h1>
 
 <h3 align="center">
@@ -9,7 +5,7 @@ Full-Stack Developer | Shopify APP & Theme Developer | Problem Solver
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=600&color=22D3EE&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Shopify APP & Theme Developer;Laravel;Symfony+%7C+REST+APIs;Clean+Code+%7C+Scalable+Apps;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=600&color=22D3EE&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Laravel;Symfony+%7C+REST+APIs;Clean+Code+%7C+Scalable+Apps;Always+Learning+New+Things" />
 </p>
 
 ---
