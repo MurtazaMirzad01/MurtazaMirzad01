@@ -18,7 +18,7 @@ Full-Stack Developer | Shopify APP & Theme Developer | Problem Solver
 
 - 🎓 Computer Science Student / Graduate  
 - 💻 Passionate Full-Stack Developer  
-- <img src="https://cdn.simpleicons.org/shopify" height="30"/> Shopify APP & Theme Developer
+- <img src="https://cdn.simpleicons.org/shopify" height="20"/> Shopify APP & Theme Developer
 - ⚙️ Focused on building real-world applications  
 - 🚀 Interested in scalable and modern systems  
 - 🧠 Always learning and improving skills  
@@ -45,7 +45,7 @@ Full-Stack Developer | Shopify APP & Theme Developer | Problem Solver
 
 ---
 
-### <img src="https://cdn.simpleicons.org/shopify" height="30"/> Shopify APP & Theme Development
+### <img src="https://cdn.simpleicons.org/shopify" height="20"/> Shopify APP & Theme Development
 <p>
   <img src="https://skillicons.dev/icons?i=liquid,react,react router,graphql&theme=dark" />
 </p>
