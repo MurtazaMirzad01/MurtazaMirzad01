@@ -5,7 +5,7 @@ Full-Stack Developer | Shopify APP & Theme Developer | Problem Solver
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=600&color=22D3EE&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Laravel;Symfony+%7C+REST+APIs;Clean+Code+%7C+Scalable+Apps;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=600&color=22D3EE&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Shopify+App+&+Theme+Developer:Laravel;Symfony+%7C+REST+APIs;Clean+Code+%7C+Scalable+Apps;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -25,14 +25,14 @@ Full-Stack Developer | Shopify APP & Theme Developer | Problem Solver
 
 ### 🖥️ Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,Alpinejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,alpinejs&theme=dark" />
 </p>
 
 ---
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,symfony,expressjs,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,symfony,expressjs,nodejs,mongodb&theme=dark" />
 </p>
 
 <p>
@@ -43,7 +43,7 @@ Full-Stack Developer | Shopify APP & Theme Developer | Problem Solver
 
 ### <img src="https://cdn.simpleicons.org/shopify" height="20"/> Shopify APP & Theme Development
 <p>
-  <img src="https://skillicons.dev/icons?i=liquid,react,react router,graphql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=liquid,react,react+router,graphql&theme=dark" />
 </p>
 
 ---
