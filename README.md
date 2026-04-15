@@ -36,7 +36,7 @@ Full-Stack Developer | Shopify APP & Theme Developer | Problem Solver
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,symfony&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,symfony,expressjs,mongodb&theme=dark" />
 </p>
 
 <p>
